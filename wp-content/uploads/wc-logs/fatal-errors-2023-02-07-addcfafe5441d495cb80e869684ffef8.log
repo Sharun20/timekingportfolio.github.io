@@ -1,0 +1,8 @@
+2023-02-07T10:42:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-5.9.3-1\apache2\htdocs\timeking\wp-content\plugins\elementor\includes\widgets\progress.php on line 4
+
+2023-02-07T10:48:33+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\Bitnami\wordpress-5.9.3-1\apache2\htdocs\timeking\wp-admin\includes\update-core.php on line 1265
+
+2023-02-07T11:22:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-5.9.3-1\apache2\htdocs\timeking\wp-content\plugins\wordpress-seo\src\integrations\front-end\handle-404.php on line 12
+
+2023-02-07T11:23:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\Bitnami\wordpress-5.9.3-1\apache2\htdocs\timeking\wp-includes\update.php on line 134
+
